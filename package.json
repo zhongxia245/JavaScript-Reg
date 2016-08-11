@@ -1,0 +1,31 @@
+{
+  "name": "JavaScript-Reg",
+  "version": "1.0.0",
+  "description": "JavaScript 正则相关知识",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongxia245/JavaScript-Reg.git"
+  },
+  "keywords": [],
+  "author": "zhongxia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongxia245/JavaScript-Reg/issues"
+  },
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-preset-es2015": "^6.13.2",
+    "chai": "~3.4.1",
+    "mocha": "~2.3.4",
+    "mochawesome": "~1.2.1"
+  },
+  "dependencies": {
+    "node-fetch": "~1.3.3",
+    "superagent": "~1.4.0"
+  },
+  "homepage": "https://github.com/zhongxia245/JavaScript-Reg#readme"
+}
